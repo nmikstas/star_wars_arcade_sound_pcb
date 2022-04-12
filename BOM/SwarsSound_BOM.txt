@@ -1,0 +1,73 @@
+Part_ID                                                 QTY     DESC            Part_Num
+
+C1,  C2,  C3,  C4,  C5,  C6,  C7,  C8,  C9,  C10,       41      0.1uf           Digikey 399-4454-1-ND
+C11, C12, C16, C17, C18, C19, C20, C22, C23, C24,
+C25, C26, C27, C28, C30, C37, C38, C40, C41, C42,
+C43, C45, C54, C55, C59, C60, C61, C31, C32, C34,
+C36
+C46, C48, C49, C50, C56, C57, C58                       7       0.0027uf        Digikey 478-11573-1-ND
+C13, C14, C15, C47, C53		                            5       100uf 50V       Digikey 1572-1309-ND
+C29, C33, C35, C39                                      4       1000pf          Digikey 1216PHCT-ND
+C44                                                     1       0.01uf          Digikey 399-4452-1-ND
+C51                                                     1       0.47uf          Digikey 1572-1461-ND‎
+C52                                                     1       10uf            Digikey 1572-1294-ND
+
+DS1                                                     1       BLUE LED        Digikey VAOL-5701SBY4-ND
+
+P2                                                      1       7 pin con       Digikey A19878-ND‎
+
+Q1, Q2                                                  2       2N3906          Digikey 2N3906TAFSCT-ND
+Q3, Q4                                                  2       2N3904          Digikey 2N3904TAFSCT-ND
+
+R1,  R4,  R7,  R12, R15, R20, R22, R24, R26             9       1K              Digikey 1.0KQBK-ND
+R2,  R3,  R5,  R6,  R10, R13, R17, R37                  8       10K             Digikey 10KQBK-ND
+R30, R39, R40, R42, R46, R47                            6       12K             Digikey 12KQBK-ND
+R21, R23, R50, R54, R55                                 5       47K             Digikey 47KQBK-ND
+R48, R49, R52, R53                                      4       22K             Digikey 22KQBK-ND
+R35, R51, R56                                           3       2.2K            Digikey 2.2KQBK-ND
+R8,  R9,  R44                                           3       100             Digikey 100QBK-ND
+R11, R14, R16                                           3       3.3K            Digikey 3.3KQBK-ND
+R25, R27                                                2       82K             Digikey 82KQBK-ND
+R33, R34                                                2       4.7K            Digikey 4.7KQBK-ND
+R31, R32                                                2       560K            Digikey 560KQBK-ND
+R19, R28                                                2       100K            Digikey 100KQBK-ND
+R18                                                     1       1.8K            Digikey 1.8KQBK-ND
+R29                                                     1       15K             Digikey 15KQBK-ND
+R36                                                     1       15              Digikey 15QBK-ND
+R38                                                     1       470             Digikey 470QBK-ND
+R41                                                     1       68K             Digikey 68KQBK-ND
+R43                                                     1       1.5K            Digikey 1.5KQBK-ND
+R45                                                     1       470K            Digikey 470KQBK-ND
+
+TP1,  TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP10      12      Test Point      Digikey WM6456-ND
+TP11, TP12
+
+D-2, D-3, D-4, D-5                                      4       POKEY           Ebay
+B-2, C-3, C-4                                           3       TL084           Digikey 296-1782-5-ND‎
+H-1, J/K-1                                              2       2764            Jameco 2303119
+F-3, F-5                                                2       LS161           Digikey 296-1646-5-ND
+J-2, J-3                                                2       LS139           Digikey 296-1640-5-ND
+J-5, K-5                                                2       LS374           Jameco 47634
+C/D-1                                                   1       TMS-5220        Ebay
+F/H-1                                                   1       6116-2K-RAM     Jameco 242675
+F/H-5                                                   1       LS125           Jameco 46501
+E-1                                                     1       PIA             Ebay
+F-2                                                     1       CD4069/74C04    Jameco 13231
+A-3                                                     1       NE556           Jameco 904114
+B-3                                                     1       R5106           Ebay
+H-2                                                     1       LS04            Jameco 46316
+H-3                                                     1       LS00            Jameco 46252
+H-5                                                     1       LS74            Jameco 48004
+K-3                                                     1       6809E           Ebay
+
+IC Sockets
+-------------------
+8  pin     1
+14 pin     9
+16-pin     4
+20-pin     2
+24-pin     1
+28-pin     3
+40-pin     6
+
+
