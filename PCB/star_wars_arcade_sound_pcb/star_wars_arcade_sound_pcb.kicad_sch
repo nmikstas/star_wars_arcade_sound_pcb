@@ -2162,7 +2162,7 @@
       (reference "B_2") (unit 5) (value "TL084") (footprint "")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/962b2347-61bc-4e8d-97bc-d0fa71b16753"
-      (reference "B_3") (unit 1) (value "R5106") (footprint "")
+      (reference "B_3") (unit 1) (value "R5106") (footprint "atari:DIP8")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/3722606d-1b2a-49d3-94d3-8b5fc209f82f"
       (reference "C/D_1") (unit 1) (value "TMS-5220") (footprint "")
@@ -2381,19 +2381,19 @@
       (reference "DS1") (unit 1) (value "BLUE LED") (footprint "")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/0f922536-649b-409c-9dc6-4219eb04e993"
-      (reference "D_2") (unit 1) (value "POKEY") (footprint "")
+      (reference "D_2") (unit 1) (value "POKEY") (footprint "atari:DDIP40")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/ca807b83-579d-49a2-8faa-791c6d5203be"
-      (reference "D_3") (unit 1) (value "POKEY") (footprint "")
+      (reference "D_3") (unit 1) (value "POKEY") (footprint "atari:DDIP40")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/5b62d180-7c11-4114-b45d-3125a20923db"
-      (reference "D_4") (unit 1) (value "POKEY") (footprint "")
+      (reference "D_4") (unit 1) (value "POKEY") (footprint "atari:DDIP40")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/41b39664-d10b-4982-8805-c6169a4e8dc6"
-      (reference "D_5") (unit 1) (value "POKEY") (footprint "")
+      (reference "D_5") (unit 1) (value "POKEY") (footprint "atari:DDIP40")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/8dce6989-76e5-47f9-8ece-ffce49bdc6c7"
-      (reference "E_1") (unit 1) (value "6532A") (footprint "")
+      (reference "E_1") (unit 1) (value "6532A") (footprint "atari:DDIP40")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/d03a3f2b-7055-4298-8412-3d4ec9d2083c"
       (reference "F/H_1") (unit 1) (value "6116") (footprint "")
@@ -2462,55 +2462,55 @@
       (reference "H_5") (unit 3) (value "74LS74") (footprint "")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/f921bbc2-1d53-4c49-b22d-1cfdc24ca6ce"
-      (reference "J/K_1") (unit 1) (value "2764") (footprint "")
+      (reference "J/K_1") (unit 1) (value "2764") (footprint "atari:DIP28")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/453ff958-092e-4831-bae7-2159cb083b5e"
-      (reference "J_2") (unit 3) (value "74LS139") (footprint "")
+      (reference "J_2") (unit 3) (value "74LS139") (footprint "atari:DIP16")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/a697db07-c546-4330-b2ec-8466f0c47902"
-      (reference "J_2") (unit 4) (value "74LS139") (footprint "")
+      (reference "J_2") (unit 4) (value "74LS139") (footprint "atari:DIP16")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/b152aab9-405c-4d6e-a3d3-6a563fb3b7fa"
-      (reference "J_2") (unit 5) (value "74LS139") (footprint "")
+      (reference "J_2") (unit 5) (value "74LS139") (footprint "atari:DIP16")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/46a2c351-e6d2-427a-bcca-e525cbb6a6a6"
-      (reference "J_3") (unit 3) (value "74LS139") (footprint "")
+      (reference "J_3") (unit 3) (value "74LS139") (footprint "atari:DIP16")
     )
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/7d4905cc-5e0f-4a58-a744-2be27e6ced05"
-      (reference "J_3") (unit 4) (value "74LS139") (footprint "")
+      (reference "J_3") (unit 4) (value "74LS139") (footprint "atari:DIP16")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/00b158c9-816a-41eb-9460-5df67871e802"
-      (reference "J_3") (unit 5) (value "74LS139") (footprint "")
+      (reference "J_3") (unit 5) (value "74LS139") (footprint "atari:DIP16")
     )
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/2d9ab7d4-9548-48aa-8ea7-b9f75f84a3b5"
-      (reference "J_5") (unit 1) (value "74LS374") (footprint "")
+      (reference "J_5") (unit 1) (value "74LS374") (footprint "atari:DIP20")
     )
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/39023a3e-abbf-48a7-83b2-c32c53e5bf3c"
-      (reference "K_3") (unit 1) (value "MC6809E") (footprint "")
+      (reference "K_3") (unit 1) (value "MC6809E") (footprint "atari:DDIP40")
     )
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/41cad9b5-4e6e-4c19-b224-5dbf977626eb"
-      (reference "K_5") (unit 2) (value "74LS374") (footprint "")
+      (reference "K_5") (unit 2) (value "74LS374") (footprint "atari:DIP20")
     )
     (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/b47ef31f-2fd2-4de1-96da-114b189c8c4b"
-      (reference "P1") (unit 1) (value "sw_main_connector") (footprint "")
+      (reference "P1") (unit 1) (value "sw_main_connector") (footprint "atari:P1")
     )
     (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/5be2f0bb-fab9-440d-8945-850938bdfa20"
-      (reference "P2") (unit 1) (value "sw_aud_connector") (footprint "")
+      (reference "P2") (unit 1) (value "sw_aud_connector") (footprint "atari:Aud_Con")
     )
     (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/5f607dbd-2a16-4fe4-bfd2-f3e9285c343a"
-      (reference "P3") (unit 1) (value "sw_audio_edge_connector") (footprint "")
+      (reference "P3") (unit 1) (value "sw_audio_edge_connector") (footprint "atari:P3")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/c1e0338a-6617-4959-9533-bdf7d7d3c845"
-      (reference "Q1") (unit 1) (value "2N3906") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+      (reference "Q1") (unit 1) (value "2N3906") (footprint "")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/ae93b99f-17ee-46f3-91e2-201cc5dec95a"
-      (reference "Q2") (unit 1) (value "2N3906") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+      (reference "Q2") (unit 1) (value "2N3906") (footprint "")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/53a6f49f-9da0-4d95-b6cc-523b08305f79"
-      (reference "Q3") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+      (reference "Q3") (unit 1) (value "2N3904") (footprint "")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/15c9d5f2-0eef-4547-a42d-15f62dac59d6"
-      (reference "Q4") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+      (reference "Q4") (unit 1) (value "2N3904") (footprint "")
     )
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/b5cd2280-67a7-4dde-b6ea-3e41ceea16f4"
       (reference "R1") (unit 1) (value "1k") (footprint "")
