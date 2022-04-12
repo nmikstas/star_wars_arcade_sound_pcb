@@ -547,7 +547,7 @@
 
   (footprint "atari:DIP14" (layer "F.Cu")
     (tedit 6255CAAF) (tstamp 28d9542c-40da-48e0-a302-e49bc2f0b7bc)
-    (at 118.11 158.115 180)
+    (at 132.08 156.21 180)
     (property "Sheetfile" "Sheet16A.kicad_sch")
     (property "Sheetname" "Sheet16A")
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/a7384801-e58c-478d-8748-8617b3eb2bf4")
@@ -1276,7 +1276,7 @@
 
   (footprint "atari:DIP14" (layer "F.Cu")
     (tedit 6255CAAF) (tstamp 75b0c2a8-82b3-4b38-bead-c0c02c84551b)
-    (at 118.11 180.975 180)
+    (at 132.08 192.405 180)
     (property "Sheetfile" "Sheet16A.kicad_sch")
     (property "Sheetname" "Sheet16A")
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/cac710bd-0fc9-4dc6-b575-fd302d8c30b0")
