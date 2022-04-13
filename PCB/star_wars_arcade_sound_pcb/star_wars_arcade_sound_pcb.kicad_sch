@@ -2140,6 +2140,30 @@
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/ec6e498b-49a9-4237-af26-2edbf2a707d5"
       (reference "#PWR0248") (unit 1) (value "GND") (footprint "")
     )
+    (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/e685cdf5-2ceb-4a92-931c-86ccc4b8a6e6"
+      (reference "#PWR0249") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/9dbe0280-9579-461c-9fce-79ae67e1512f"
+      (reference "#PWR0250") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/f5d083eb-bfb2-4d0d-a2fb-85e391b57f98"
+      (reference "#PWR0251") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/032afd10-f735-4480-bf01-ddfd4db4b581"
+      (reference "#PWR0252") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/aed9a083-6bd4-4716-af1f-2cf3fa6e2708"
+      (reference "#PWR0253") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/8d960bf2-e200-483b-a4f8-814d77f63b59"
+      (reference "#PWR0254") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/6a0c4189-5b6f-42d8-9476-1b4809581271"
+      (reference "#PWR0255") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/6dfade26-ba57-42fb-bc49-b06315bb1188"
+      (reference "#PWR0256") (unit 1) (value "GND") (footprint "")
+    )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/5c919cd4-439e-443f-bfbc-c61fdd09736f"
       (reference "A_3") (unit 1) (value "LM556") (footprint "atari:DIP14")
     )
@@ -2168,184 +2192,184 @@
       (reference "C/D_1") (unit 1) (value "TMS-5220") (footprint "atari:DIP28")
     )
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/3defc642-6712-4150-ae1d-a2e9231d5d15"
-      (reference "C1") (unit 1) (value ".1uf") (footprint "")
+      (reference "C1") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/462f570f-7895-44d1-bb24-66fca7526697"
-      (reference "C2") (unit 1) (value ".1uf") (footprint "")
+      (reference "C2") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/35d9f183-1973-4762-96bb-eaa9562034e8"
-      (reference "C3") (unit 1) (value ".1uf") (footprint "")
+      (reference "C3") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/8711b6fe-1d47-494f-9870-90d999ec645d"
-      (reference "C4") (unit 1) (value ".1uf") (footprint "")
+      (reference "C4") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/0286baab-1937-46d4-ada6-1abc4f6b1a66"
-      (reference "C5") (unit 1) (value ".1uf") (footprint "")
+      (reference "C5") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/e15c4038-ea4f-4bd6-8cdb-78ce2daa232a"
-      (reference "C6") (unit 1) (value ".1uf") (footprint "")
+      (reference "C6") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/8bf38c80-20f5-4dd0-9565-d5a3fad4d0c7"
-      (reference "C7") (unit 1) (value ".1uf") (footprint "")
+      (reference "C7") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/d0ec3434-43b7-406d-af8e-d5b8564469a9"
-      (reference "C8") (unit 1) (value ".1uf") (footprint "")
+      (reference "C8") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/fe8f73be-8de1-411c-8cfd-cde6ce812bac"
-      (reference "C9") (unit 1) (value ".1uf") (footprint "")
+      (reference "C9") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/4b0f813b-fd59-40bb-93f1-68ffaa7797ab"
-      (reference "C10") (unit 1) (value ".1uf") (footprint "")
+      (reference "C10") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/9a619dec-0d4c-49de-9815-607f111ac632"
-      (reference "C11") (unit 1) (value ".1uf") (footprint "")
+      (reference "C11") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/d2ae54de-3520-4b2d-a65c-97ba3d7e9091"
-      (reference "C12") (unit 1) (value ".1uf") (footprint "")
+      (reference "C12") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/383e5960-d8ed-4ed7-af72-fbc58f47044c"
-      (reference "C13") (unit 1) (value "100uf 50v") (footprint "")
+      (reference "C13") (unit 1) (value "100uf 50v") (footprint "atari:LargeCap1")
     )
     (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/98c561cc-14da-4872-a95e-44bcdaace3ef"
-      (reference "C14") (unit 1) (value "100uf 50v") (footprint "")
+      (reference "C14") (unit 1) (value "100uf 50v") (footprint "atari:LargeCap2")
     )
     (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/f812c7f3-03d7-4353-943b-9006b12ff396"
-      (reference "C15") (unit 1) (value "100uf 50v") (footprint "")
+      (reference "C15") (unit 1) (value "100uf 50v") (footprint "atari:LargeCap1")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/24dc9730-f1cd-4d54-b682-11ca1223a205"
-      (reference "C16") (unit 1) (value ".1uf") (footprint "")
+      (reference "C16") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/9c91f440-0687-49c2-a4ba-0001f127434e"
-      (reference "C17") (unit 1) (value ".1uf") (footprint "")
+      (reference "C17") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/470bf0c7-fd15-49ae-a6b5-5641a3b0223f"
-      (reference "C18") (unit 1) (value ".1uf") (footprint "")
+      (reference "C18") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/866cfe98-e3a4-41f6-b89d-6686d33487b1"
-      (reference "C19") (unit 1) (value ".1uf") (footprint "")
+      (reference "C19") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/ba867dd4-02cd-47df-bd2e-57b2eb55e41b"
-      (reference "C20") (unit 1) (value ".1uf") (footprint "")
+      (reference "C20") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/3cec74cc-efbc-4fe7-8307-1c79c12cf1e9"
-      (reference "C22") (unit 1) (value ".1uf") (footprint "")
+      (reference "C22") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/71b10a77-acaf-448f-87bf-a902b581b20e"
-      (reference "C23") (unit 1) (value ".1uf") (footprint "")
+      (reference "C23") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/adeb0bfb-2b9a-4e7d-b7e9-bafa182ab868"
-      (reference "C24") (unit 1) (value ".1uf") (footprint "")
+      (reference "C24") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/ace27ff8-5e8d-4a28-babb-b0af842ba963"
-      (reference "C25") (unit 1) (value ".1uf") (footprint "")
+      (reference "C25") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/62cfbb37-fe38-4606-b9a7-56c01580c671"
-      (reference "C26") (unit 1) (value ".1uf") (footprint "")
+      (reference "C26") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/2998c321-9b95-4c9c-8591-02502522a18b"
-      (reference "C27") (unit 1) (value ".1uf") (footprint "")
+      (reference "C27") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/05bbb3ce-cbc3-4234-a125-7be143a2cd86"
-      (reference "C28") (unit 1) (value ".1uf") (footprint "")
+      (reference "C28") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/b685b620-3ede-48c4-9028-826ab4eee711"
-      (reference "C29") (unit 1) (value "1000pf") (footprint "")
+      (reference "C29") (unit 1) (value "1000pf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/6480ccbd-e297-4f4e-ac5b-76b160ba98a5"
-      (reference "C30") (unit 1) (value ".1uf") (footprint "")
+      (reference "C30") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/a2d02a61-e255-45a8-a040-05f8912ccdaf"
-      (reference "C31") (unit 1) (value ".1uf") (footprint "")
+      (reference "C31") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/947aff5f-b1a7-483e-8341-c9c4d817628f"
-      (reference "C32") (unit 1) (value ".1uf") (footprint "")
+      (reference "C32") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/cf21c974-6d04-42ea-b4f8-2c652bffe2ef"
-      (reference "C33") (unit 1) (value "1000pf") (footprint "")
+      (reference "C33") (unit 1) (value "1000pf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/141cc407-1e3e-4db3-852f-b36ecc4cce36"
-      (reference "C34") (unit 1) (value ".1uf") (footprint "")
+      (reference "C34") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/e442f394-6b4e-495e-a8a0-e6aa880c1ca0"
-      (reference "C35") (unit 1) (value "1000pf") (footprint "")
+      (reference "C35") (unit 1) (value "1000pf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/cbef9660-d780-493e-9d0e-ef0b64e1a480"
-      (reference "C36") (unit 1) (value ".1uf") (footprint "")
+      (reference "C36") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/8e019b61-5a29-4873-a8da-ff2784be8165"
-      (reference "C37") (unit 1) (value ".1uf") (footprint "")
+      (reference "C37") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/c2694825-eeb2-43c5-9b4f-0204ee59886a"
-      (reference "C38") (unit 1) (value ".1uf") (footprint "")
+      (reference "C38") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/d1f1ecb0-da19-453f-9760-8d698d6d1eff"
-      (reference "C39") (unit 1) (value "1000pf") (footprint "")
+      (reference "C39") (unit 1) (value "1000pf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/5dcb1744-158e-4645-b74d-c5928e14cf90"
-      (reference "C40") (unit 1) (value ".1uf") (footprint "")
+      (reference "C40") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/5f9285ba-d9de-4266-9f83-0bd401c90763"
-      (reference "C41") (unit 1) (value ".1uf") (footprint "")
+      (reference "C41") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/abbb49e3-172d-416c-a895-2d4b80e30c42"
-      (reference "C42") (unit 1) (value ".1uf") (footprint "")
+      (reference "C42") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/e38ddc6d-2774-447e-b686-6a4260199776"
-      (reference "C43") (unit 1) (value ".1uf") (footprint "")
+      (reference "C43") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/823b520f-aeb6-43ee-8f00-8dd282b86d94"
-      (reference "C44") (unit 1) (value ".01uf") (footprint "")
+      (reference "C44") (unit 1) (value ".01uf") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/89631db3-d537-4048-92f4-467a7f6be14d"
-      (reference "C45") (unit 1) (value ".1uf") (footprint "")
+      (reference "C45") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/8ae3002d-aa69-4e6f-9c9f-5a591709f55e"
-      (reference "C46") (unit 1) (value ".0027uf") (footprint "")
+      (reference "C46") (unit 1) (value ".0027uf") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/bbb6c932-34e3-4767-bb1e-899ba6b48d91"
-      (reference "C47") (unit 1) (value "100uf 50v") (footprint "")
+      (reference "C47") (unit 1) (value "100uf 50v") (footprint "atari:LargeCap1")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/93240e47-5461-45bc-9835-ce830c621135"
-      (reference "C48") (unit 1) (value ".0027uf") (footprint "")
+      (reference "C48") (unit 1) (value ".0027uf") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/47a5e44f-70d4-4cdc-8cff-5748c5b7f1ef"
-      (reference "C49") (unit 1) (value ".0027uf") (footprint "")
+      (reference "C49") (unit 1) (value ".0027uf") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/22a74f30-b6bb-41d1-911b-d64431be96b8"
-      (reference "C50") (unit 1) (value ".0027uf") (footprint "")
+      (reference "C50") (unit 1) (value ".0027uf") (footprint "atari:GenericComp")
     )
-    (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/e105c821-27e4-41d1-8116-3c2353ddf4ae"
-      (reference "C51") (unit 1) (value ".47uf") (footprint "")
+    (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/9631e3da-eea2-47d2-a958-9272dc2da511"
+      (reference "C51") (unit 1) (value ".47uf") (footprint "atari:MedCap1")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/1f115e99-7ff7-4b4e-9bd6-13afce5e3ac6"
-      (reference "C52") (unit 1) (value "10uf 35v") (footprint "")
+      (reference "C52") (unit 1) (value "10uf 35v") (footprint "atari:MedCap1")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/943d3a9f-6d01-4a99-ae73-ffc75d87f65a"
-      (reference "C53") (unit 1) (value "100uf 50v") (footprint "")
+      (reference "C53") (unit 1) (value "100uf 50v") (footprint "atari:LargeCap1")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/60bc6e44-f865-4b44-b661-e059494d44c5"
-      (reference "C54") (unit 1) (value ".1uf") (footprint "")
+      (reference "C54") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/660f62a5-eff1-4c14-b490-28ee3d11f979"
-      (reference "C55") (unit 1) (value ".1uf") (footprint "")
+      (reference "C55") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/59a01908-4d89-4ef6-98ad-bca84614223d"
-      (reference "C56") (unit 1) (value ".0027uf") (footprint "")
+      (reference "C56") (unit 1) (value ".0027uf") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/bfd8978d-99c4-4689-b660-beef0ce4860d"
-      (reference "C57") (unit 1) (value ".0027uf") (footprint "")
+      (reference "C57") (unit 1) (value ".0027uf") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/f8fde9f0-f5d1-4e34-aa69-30b591e48626"
-      (reference "C58") (unit 1) (value ".0027uf") (footprint "")
+      (reference "C58") (unit 1) (value ".0027uf") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/ca107ec8-f887-46bb-bba1-b745a94d0f47"
-      (reference "C59") (unit 1) (value ".1uf") (footprint "")
+      (reference "C59") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/d07a9435-c83c-4b3b-aca1-7562b157c13c"
-      (reference "C60") (unit 1) (value ".1uf") (footprint "")
+      (reference "C60") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/419a28b6-bed5-46de-a374-6d81a45fd994"
-      (reference "C61") (unit 1) (value ".1uf") (footprint "")
+      (reference "C61") (unit 1) (value ".1uf") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/a7384801-e58c-478d-8748-8617b3eb2bf4"
       (reference "C_3") (unit 1) (value "TL084") (footprint "atari:DIP14")
@@ -2378,7 +2402,7 @@
       (reference "C_4") (unit 5) (value "TL084") (footprint "atari:DIP14")
     )
     (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/64995f6f-ee7d-41af-bf86-a88628be0a75"
-      (reference "DS1") (unit 1) (value "BLUE LED") (footprint "")
+      (reference "DS1") (unit 1) (value "BLUE LED") (footprint "atari:LED")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/0f922536-649b-409c-9dc6-4219eb04e993"
       (reference "D_2") (unit 1) (value "POKEY") (footprint "atari:DDIP40")
@@ -2407,11 +2431,26 @@
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/4b94f01e-5cca-4f0a-8dd4-a62634349fc8"
       (reference "F/H_5") (unit 3) (value "74LS125") (footprint "atari:DIP14")
     )
+    (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/19a9d0c8-84ee-4a5b-8aaf-fa8f83668058"
+      (reference "F/H_5") (unit 4) (value "74LS125") (footprint "atari:DIP14")
+    )
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/03e68a6d-04f3-454c-82bf-c47280f388f9"
       (reference "F/H_5") (unit 5) (value "74LS125") (footprint "atari:DIP14")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/ca17182f-dbf7-401a-8749-e73b9c8f439f"
       (reference "F_2") (unit 1) (value "C04") (footprint "atari:DIP14")
+    )
+    (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/8fa4725e-8cd4-43c2-a331-f8853343eb11"
+      (reference "F_2") (unit 2) (value "C04") (footprint "atari:DIP14")
+    )
+    (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/61397e7f-0b4d-4f2d-a8ed-c3eb8720aa70"
+      (reference "F_2") (unit 3) (value "C04") (footprint "atari:DIP14")
+    )
+    (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/87163acc-8447-4219-b291-406ae3fb9f0f"
+      (reference "F_2") (unit 4) (value "C04") (footprint "atari:DIP14")
+    )
+    (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/e097cd1d-4d8a-46fe-b471-c5549714d363"
+      (reference "F_2") (unit 5) (value "C04") (footprint "atari:DIP14")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/b94125e0-5fa3-4511-a774-632c0f620942"
       (reference "F_2") (unit 6) (value "C04") (footprint "atari:DIP14")
@@ -2434,6 +2473,12 @@
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/f60c9e12-4418-4d3c-a2b3-ed5e890376b2"
       (reference "H_2") (unit 2) (value "74LS04") (footprint "atari:DIP14")
     )
+    (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/0121cbf1-3f91-4d6d-9cd8-6cb5d9a15a18"
+      (reference "H_2") (unit 3) (value "74LS04") (footprint "atari:DIP14")
+    )
+    (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/8f66ba3f-53d5-4076-83ce-869b2bd8cd6c"
+      (reference "H_2") (unit 4) (value "74LS04") (footprint "atari:DIP14")
+    )
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/4acf0387-ef9b-4eab-bd44-b37cd161227d"
       (reference "H_2") (unit 5) (value "74LS04") (footprint "atari:DIP14")
     )
@@ -2445,6 +2490,12 @@
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/01187067-b896-4911-8f18-576dda6a96f0"
       (reference "H_3") (unit 1) (value "74LS00") (footprint "atari:DIP14")
+    )
+    (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/f8b6449d-0b91-47dc-a855-556d96596a52"
+      (reference "H_3") (unit 2) (value "74LS00") (footprint "atari:DIP14")
+    )
+    (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/1acec57c-2fd1-414f-a902-0bb20f7023fc"
+      (reference "H_3") (unit 3) (value "74LS00") (footprint "atari:DIP14")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/3cec4528-cf3c-4142-b457-be349479124a"
       (reference "H_3") (unit 4) (value "74LS00") (footprint "atari:DIP14")
@@ -2501,220 +2552,220 @@
       (reference "P3") (unit 1) (value "sw_audio_edge_connector") (footprint "atari:P3")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/c1e0338a-6617-4959-9533-bdf7d7d3c845"
-      (reference "Q1") (unit 1) (value "2N3906") (footprint "")
+      (reference "Q1") (unit 1) (value "2N3906") (footprint "atari:GenericTrans")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/ae93b99f-17ee-46f3-91e2-201cc5dec95a"
-      (reference "Q2") (unit 1) (value "2N3906") (footprint "")
+      (reference "Q2") (unit 1) (value "2N3906") (footprint "atari:GenericTrans")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/53a6f49f-9da0-4d95-b6cc-523b08305f79"
-      (reference "Q3") (unit 1) (value "2N3904") (footprint "")
+      (reference "Q3") (unit 1) (value "2N3904") (footprint "atari:GenericTrans")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/15c9d5f2-0eef-4547-a42d-15f62dac59d6"
-      (reference "Q4") (unit 1) (value "2N3904") (footprint "")
+      (reference "Q4") (unit 1) (value "2N3904") (footprint "atari:GenericTrans")
     )
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/b5cd2280-67a7-4dde-b6ea-3e41ceea16f4"
-      (reference "R1") (unit 1) (value "1k") (footprint "")
+      (reference "R1") (unit 1) (value "1k") (footprint "atari:GenericComp")
     )
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/32208743-4aee-43ce-8262-3868fb734f26"
-      (reference "R2") (unit 1) (value "10k") (footprint "")
+      (reference "R2") (unit 1) (value "10k") (footprint "atari:GenericComp")
     )
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/01009550-96a5-4ab9-b6e3-50933d33f352"
-      (reference "R3") (unit 1) (value "10k") (footprint "")
+      (reference "R3") (unit 1) (value "10k") (footprint "atari:GenericComp")
     )
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/17dbb045-dd70-4a00-8cd0-1fcf6130bd32"
-      (reference "R4") (unit 1) (value "1k") (footprint "")
+      (reference "R4") (unit 1) (value "1k") (footprint "atari:GenericComp")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/0b2496a7-7db2-4a69-ac66-b0084cce2baa"
-      (reference "R5") (unit 1) (value "10k") (footprint "")
+      (reference "R5") (unit 1) (value "10k") (footprint "atari:GenericComp")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/27fe1a31-ad29-49f2-9a27-e636ab3797c8"
-      (reference "R6") (unit 1) (value "10k") (footprint "")
+      (reference "R6") (unit 1) (value "10k") (footprint "atari:GenericComp")
     )
     (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/3d6e9cc9-4755-4e87-8f8f-bb07aa6d50c3"
-      (reference "R7") (unit 1) (value "1k") (footprint "")
+      (reference "R7") (unit 1) (value "1k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/e953b517-ddd2-4dc9-8c32-e688f604bfe1"
-      (reference "R8") (unit 1) (value "100") (footprint "")
+      (reference "R8") (unit 1) (value "100") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/694483f5-339d-4416-b3a7-d0a79bb5ba7c"
-      (reference "R9") (unit 1) (value "100") (footprint "")
+      (reference "R9") (unit 1) (value "100") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/49da6f19-f491-4c52-9515-4b713cd940ea"
-      (reference "R10") (unit 1) (value "10k") (footprint "")
+      (reference "R10") (unit 1) (value "10k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/21527c9b-d1d7-452b-8149-22c04865fab8"
-      (reference "R11") (unit 1) (value "3.3k") (footprint "")
+      (reference "R11") (unit 1) (value "3.3k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/48dad4ae-a688-405a-b15e-feb19eaec160"
-      (reference "R12") (unit 1) (value "1k") (footprint "")
+      (reference "R12") (unit 1) (value "1k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/d4edf2e3-4d03-462f-89cf-e6eff76e1e9a"
-      (reference "R13") (unit 1) (value "10k") (footprint "")
+      (reference "R13") (unit 1) (value "10k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/b5b34944-418d-4345-baeb-92a5d4887d5c"
-      (reference "R14") (unit 1) (value "3.3k") (footprint "")
+      (reference "R14") (unit 1) (value "3.3k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/d856aa54-4bf9-48a2-bce8-7bf876cd065d"
-      (reference "R15") (unit 1) (value "1k") (footprint "")
+      (reference "R15") (unit 1) (value "1k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/078c37ba-8b11-418f-9840-bfdf9ff21a20"
-      (reference "R16") (unit 1) (value "3.3k") (footprint "")
+      (reference "R16") (unit 1) (value "3.3k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/14d451a3-fa57-43f0-98c6-fb7758b41cc9"
-      (reference "R17") (unit 1) (value "10k") (footprint "")
+      (reference "R17") (unit 1) (value "10k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/16b6c2da-2d88-4d1c-a30d-af25b11d55cc"
-      (reference "R18") (unit 1) (value "1.8k") (footprint "")
+      (reference "R18") (unit 1) (value "1.8k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/8a1475c9-4165-4eca-86f3-27c680dd9283"
-      (reference "R19") (unit 1) (value "100k") (footprint "")
+      (reference "R19") (unit 1) (value "100k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/7e97389c-fa8a-42f1-a4a9-d4c4e6411b2c"
-      (reference "R20") (unit 1) (value "1k") (footprint "")
+      (reference "R20") (unit 1) (value "1k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/73e277a3-c0ba-4ba6-a7f4-884a143d7cb5"
-      (reference "R21") (unit 1) (value "47k") (footprint "")
+      (reference "R21") (unit 1) (value "47k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/ad851406-50e1-4a65-b8c0-84382773ce77"
-      (reference "R22") (unit 1) (value "1k") (footprint "")
+      (reference "R22") (unit 1) (value "1k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/cb319d91-0f18-43e0-8052-aed2f4b7c3e8"
-      (reference "R23") (unit 1) (value "47k") (footprint "")
+      (reference "R23") (unit 1) (value "47k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/a8339b57-efc9-4453-8966-6a72aae1c6af"
-      (reference "R24") (unit 1) (value "1k") (footprint "")
+      (reference "R24") (unit 1) (value "1k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/e8995fff-58e0-4615-b56d-44f8d254edd1"
-      (reference "R25") (unit 1) (value "82k") (footprint "")
+      (reference "R25") (unit 1) (value "82k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/b8c9a912-2934-4da3-a7b7-9c189b9fd3ef"
-      (reference "R26") (unit 1) (value "1k") (footprint "")
+      (reference "R26") (unit 1) (value "1k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/ead1e549-5dcd-4395-8bf7-6eec20bc5c92"
-      (reference "R27") (unit 1) (value "82k") (footprint "")
+      (reference "R27") (unit 1) (value "82k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/439fd1d2-fdee-4c43-bffa-33171bf16200"
-      (reference "R28") (unit 1) (value "100k") (footprint "")
+      (reference "R28") (unit 1) (value "100k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/458684f6-0fb3-4e80-98b9-631e2ff3551d"
-      (reference "R29") (unit 1) (value "15k") (footprint "")
+      (reference "R29") (unit 1) (value "15k") (footprint "atari:GenericComp")
     )
     (path "/9ed8f4f5-bb92-456c-b241-7db08792d29e/35f851a8-39e3-41a5-8a2a-ee164c611a88"
-      (reference "R30") (unit 1) (value "12k") (footprint "")
+      (reference "R30") (unit 1) (value "12k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/27764ae3-082e-4952-a358-7a5fcae41f96"
-      (reference "R31") (unit 1) (value "560k") (footprint "")
+      (reference "R31") (unit 1) (value "560k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/1f9cab97-de1c-456d-832b-5f5cb2596f56"
-      (reference "R32") (unit 1) (value "560k") (footprint "")
+      (reference "R32") (unit 1) (value "560k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/65740a53-2a59-46ec-bf1d-88258c8a3662"
-      (reference "R33") (unit 1) (value "4.7k") (footprint "")
+      (reference "R33") (unit 1) (value "4.7k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/e7bf021c-93d5-4724-ba2b-72ffca90a0de"
-      (reference "R34") (unit 1) (value "4.7k") (footprint "")
+      (reference "R34") (unit 1) (value "4.7k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/e81ddf12-f9ce-4574-9017-737a85033448"
-      (reference "R35") (unit 1) (value "2.2k") (footprint "")
+      (reference "R35") (unit 1) (value "2.2k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/88832c93-8d1c-4aa2-9435-e1cc664516ba"
-      (reference "R36") (unit 1) (value "15") (footprint "")
+      (reference "R36") (unit 1) (value "15") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/fab3e2b6-8ff5-4429-81c7-31e8f1d3dc82"
-      (reference "R37") (unit 1) (value "10k") (footprint "")
+      (reference "R37") (unit 1) (value "10k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/f3935bcf-c379-448f-986a-1a4ce4a22a7a"
-      (reference "R38") (unit 1) (value "470") (footprint "")
+      (reference "R38") (unit 1) (value "470") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/a2c7ca71-a4bb-4cf1-8135-2450473d1b0a"
-      (reference "R39") (unit 1) (value "12k") (footprint "")
+      (reference "R39") (unit 1) (value "12k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/cf57b60e-e1e7-443e-827e-1cd5ddcab9a3"
-      (reference "R40") (unit 1) (value "12k") (footprint "")
+      (reference "R40") (unit 1) (value "12k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/a255a069-058e-4ee9-a8e6-92636bad693e"
-      (reference "R41") (unit 1) (value "68k") (footprint "")
+      (reference "R41") (unit 1) (value "68k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/1bef4183-025e-465e-99a3-fafef16ec9f0"
-      (reference "R42") (unit 1) (value "12k") (footprint "")
+      (reference "R42") (unit 1) (value "12k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/d57718c5-8dd2-4856-b39e-81c3977c2b73"
-      (reference "R43") (unit 1) (value "1.5k") (footprint "")
+      (reference "R43") (unit 1) (value "1.5k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/3855ddba-489a-4035-8e5f-acde1de84c5d"
-      (reference "R44") (unit 1) (value "100") (footprint "")
+      (reference "R44") (unit 1) (value "100") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/6f0d14a7-4a31-400b-a47f-200ff6ec7a4a"
-      (reference "R45") (unit 1) (value "470k") (footprint "")
+      (reference "R45") (unit 1) (value "470k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/f28f5025-f8b7-4296-b76d-0b8f36c1097b"
-      (reference "R46") (unit 1) (value "12k") (footprint "")
+      (reference "R46") (unit 1) (value "12k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/42394907-76ee-445b-aac3-4b6269eff053"
-      (reference "R47") (unit 1) (value "12k") (footprint "")
+      (reference "R47") (unit 1) (value "12k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/03f7b312-47cb-4264-8a62-aa090e2aa8b4"
-      (reference "R48") (unit 1) (value "22k") (footprint "")
+      (reference "R48") (unit 1) (value "22k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/391d7082-c7f7-49df-b8b5-18fda5d736f7"
-      (reference "R49") (unit 1) (value "22k") (footprint "")
+      (reference "R49") (unit 1) (value "22k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/35956e41-6804-4c17-8ec0-c6315e56945f"
-      (reference "R50") (unit 1) (value "47k") (footprint "")
+      (reference "R50") (unit 1) (value "47k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/add908a3-1a79-420c-925d-875405930c4d"
-      (reference "R51") (unit 1) (value "2.2k") (footprint "")
+      (reference "R51") (unit 1) (value "2.2k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/cb2d7b7e-d9a4-413f-a42c-2802dedd124a"
-      (reference "R52") (unit 1) (value "22k") (footprint "")
+      (reference "R52") (unit 1) (value "22k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/20318c8d-5d06-44ee-91f2-a198f8ca9756"
-      (reference "R53") (unit 1) (value "22k") (footprint "")
+      (reference "R53") (unit 1) (value "22k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/e70c590b-3c4d-4a4f-b58b-31f7a83a80ec"
-      (reference "R54") (unit 1) (value "47k") (footprint "")
+      (reference "R54") (unit 1) (value "47k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/18b4efb6-6f2c-4454-a05d-888054c5d9e3"
-      (reference "R55") (unit 1) (value "47k") (footprint "")
+      (reference "R55") (unit 1) (value "47k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/672612db-17e7-4fc1-98e0-2db6ca84c1ea"
-      (reference "R56") (unit 1) (value "2.2k") (footprint "")
+      (reference "R56") (unit 1) (value "2.2k") (footprint "atari:GenericComp")
     )
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/a24b10a4-25f1-44b6-b629-eda802f7f372"
-      (reference "TP1") (unit 1) (value "tp_2_pin") (footprint "")
+      (reference "TP1") (unit 1) (value "tp_2_pin") (footprint "atari:TEST_POINT")
     )
     (path "/bb7251a8-9c6f-490e-a604-fe4b34be3d98/56901b42-6bb3-4844-809e-330ff07a9930"
-      (reference "TP2") (unit 1) (value "tp_2_pin") (footprint "")
+      (reference "TP2") (unit 1) (value "tp_2_pin") (footprint "atari:TEST_POINT")
     )
     (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/b9836fb4-f5fd-480a-a5a1-10857e8c0dc7"
-      (reference "TP3") (unit 1) (value "tp_2_pin") (footprint "")
+      (reference "TP3") (unit 1) (value "tp_2_pin") (footprint "atari:TEST_POINT")
     )
     (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/6c242285-0a89-48c8-8cac-15a49f85383b"
-      (reference "TP4") (unit 1) (value "tp_2_pin") (footprint "")
+      (reference "TP4") (unit 1) (value "tp_2_pin") (footprint "atari:TEST_POINT")
     )
     (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/eff5d3eb-cb43-408f-b7e2-0fca7453c137"
-      (reference "TP5") (unit 1) (value "tp_2_pin") (footprint "")
+      (reference "TP5") (unit 1) (value "tp_2_pin") (footprint "atari:TEST_POINT")
     )
     (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/9d14b713-29ff-4aaa-b4a8-8727a2eb0dd9"
-      (reference "TP6") (unit 1) (value "tp_2_pin") (footprint "")
+      (reference "TP6") (unit 1) (value "tp_2_pin") (footprint "atari:TEST_POINT")
     )
     (path "/407fae1f-316c-420a-89e6-21f138123cbe/b4e29a1b-c057-44a4-afdd-fe06e262ede7"
-      (reference "TP7") (unit 1) (value "tp_2_pin") (footprint "")
+      (reference "TP7") (unit 1) (value "tp_2_pin") (footprint "atari:TEST_POINT")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/2f68c216-a0e5-4518-91e0-ec0d587f1534"
-      (reference "TP8") (unit 1) (value "tp_2_pin") (footprint "")
+      (reference "TP8") (unit 1) (value "tp_2_pin") (footprint "atari:TEST_POINT")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/c719077c-dc79-4495-8700-766a61e71554"
-      (reference "TP9") (unit 1) (value "tp_2_pin") (footprint "")
+      (reference "TP9") (unit 1) (value "tp_2_pin") (footprint "atari:TEST_POINT")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/cd026cb5-113f-4ddb-9057-c9160155b80b"
-      (reference "TP10") (unit 1) (value "tp_2_pin") (footprint "")
+      (reference "TP10") (unit 1) (value "tp_2_pin") (footprint "atari:TEST_POINT")
     )
     (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/7d910d7c-9109-456b-9da9-1a9c708a77c8"
-      (reference "TP11") (unit 1) (value "tp_2_pin") (footprint "")
+      (reference "TP11") (unit 1) (value "tp_2_pin") (footprint "atari:TEST_POINT")
     )
     (path "/cebdfe8f-e709-44ea-8f19-823f6d0c04e1/17decf12-57be-4d09-b01a-a1dfd240ac0e"
-      (reference "TP12") (unit 1) (value "tp_2_pin") (footprint "")
+      (reference "TP12") (unit 1) (value "tp_2_pin") (footprint "atari:TEST_POINT")
     )
   )
 )
