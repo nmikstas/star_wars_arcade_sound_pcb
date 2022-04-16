@@ -2707,10 +2707,10 @@
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/42394907-76ee-445b-aac3-4b6269eff053"
       (reference "R47") (unit 1) (value "12k") (footprint "atari:GenericComp")
     )
-    (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/03f7b312-47cb-4264-8a62-aa090e2aa8b4"
+    (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/391d7082-c7f7-49df-b8b5-18fda5d736f7"
       (reference "R48") (unit 1) (value "22k") (footprint "atari:GenericComp")
     )
-    (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/391d7082-c7f7-49df-b8b5-18fda5d736f7"
+    (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/03f7b312-47cb-4264-8a62-aa090e2aa8b4"
       (reference "R49") (unit 1) (value "22k") (footprint "atari:GenericComp")
     )
     (path "/a3194b6b-e6da-4db7-a13a-0a1d04b4bc0f/35956e41-6804-4c17-8ec0-c6315e56945f"
