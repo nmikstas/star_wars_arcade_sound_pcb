@@ -1,0 +1,14 @@
+(footprint "hole150" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 625DD4A9)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -2.54 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b13c96ff-d272-4145-89d4-8fa57c38f3ca)
+  )
+  (fp_text value "hole150" (at 0 2.54 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp e07a05b3-6aaa-46f0-b9b0-b9dd1f7039f9)
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 3.81 3.81) (drill 3.81) (layers *.Mask) (tstamp 5951ef24-0eda-490c-8bfe-19ec1e667b89))
+)
