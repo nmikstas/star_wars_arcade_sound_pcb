@@ -53,7 +53,7 @@
     )
     (pad_to_mask_clearance 0)
     (pcbplotparams
-      (layerselection 0x00010fc_ffffffff)
+      (layerselection 0x00010f0_ffffffff)
       (disableapertmacros false)
       (usegerberextensions false)
       (usegerberattributes true)
@@ -81,9 +81,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "./gerbers")
     )
   )
 
@@ -1567,7 +1567,7 @@
     )
     (fp_text value "1.5k" (at -1.27 -0.635 90) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 9cee7c1a-ce2f-4811-a62e-72be46a67f4f)
+      (tstamp 5efb5ee8-9a5b-43be-9241-3bd9350bf6d8)
     )
     (fp_line (start 4.445 0) (end -4.445 0) (layer "F.SilkS") (width 0.254) (tstamp 57afb9d1-d7e8-4819-8e7d-1464b19ced05))
     (pad "1" thru_hole circle (at -5.715 0 270) (size 1.905 1.905) (drill 1.016) (layers *.Cu *.Mask)
@@ -2090,13 +2090,13 @@
     (attr through_hole)
     (fp_text reference "REF**" (at 0 -3.175 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b612f325-cb3d-4123-9230-a2ba2ee1005f)
+      (tstamp 4aa02fcf-a7e7-41c2-8d9b-00c37ee45c43)
     )
     (fp_text value "hole180" (at 0 3.175 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c1e9f394-0452-493c-9ed5-b1410cb2be12)
+      (tstamp dea8fadb-ebfc-4dda-baa1-8cb72e8a1ac9)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 4.572 4.572) (drill 4.572) (layers *.Mask) (tstamp f7dd8c1d-522b-4bf4-9270-52288a28cdd6))
+    (pad "" np_thru_hole circle (at 0 0) (size 4.572 4.572) (drill 4.572) (layers *.Mask) (tstamp 6a121b26-0691-4668-9123-b5d2ea660ffa))
   )
 
   (footprint "atari:GenericComp" (layer "F.Cu")
@@ -2661,7 +2661,7 @@
     (fp_line (start -13.52 -1.775) (end -13.52 2.035) (layer "F.SilkS") (width 0.254) (tstamp 877c0773-662d-4027-91fe-6687132bab9a))
     (fp_line (start 1.72 2.035) (end -13.52 2.035) (layer "F.SilkS") (width 0.254) (tstamp 97674101-8fdb-4da4-a5c2-07b75577a3eb))
     (fp_line (start -13.52 -1.775) (end 1.72 -1.775) (layer "F.SilkS") (width 0.254) (tstamp e6540df3-6efa-43d5-a4cc-b4881712feeb))
-    (pad "1" thru_hole roundrect (at 11.88 0.13 90) (size 2.46 2.8) (drill 1.8) (layers *.Cu *.Mask) (roundrect_rratio 0.101626)
+    (pad "1" thru_hole roundrect (at 11.88 0.13 90) (size 2.46 2.8) (drill 1.8) (layers *.Cu *.Mask) (roundrect_rratio 0.1016260163)
       (net 216 "LEFT_AUDIO") (pinfunction "L_AUDIO") (pintype "bidirectional") (tstamp 71caf114-4b0e-4076-8d36-60b0153ae770))
     (pad "2" thru_hole circle (at 7.92 0.13) (size 2.794 2.794) (drill 1.8) (layers *.Cu *.Mask)
       (net 217 "RIGHT_AUDIO") (pinfunction "R_AUDIO") (pintype "bidirectional") (tstamp 5cf2b344-8538-49e8-8973-a0256d926f69))
@@ -4618,13 +4618,13 @@
     (attr through_hole)
     (fp_text reference "REF**" (at 0 -3.175 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b612f325-cb3d-4123-9230-a2ba2ee1005f)
+      (tstamp c6e09810-11f2-440a-883c-e64d45d065d1)
     )
     (fp_text value "hole180" (at 0 3.175 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c1e9f394-0452-493c-9ed5-b1410cb2be12)
+      (tstamp 85f802fa-3879-4255-9229-48cb887b3ed3)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 4.572 4.572) (drill 4.572) (layers *.Mask) (tstamp f7dd8c1d-522b-4bf4-9270-52288a28cdd6))
+    (pad "" np_thru_hole circle (at 0 0) (size 4.572 4.572) (drill 4.572) (layers *.Mask) (tstamp 9dd1cfdf-127b-4bab-81b6-c0eff770c548))
   )
 
   (footprint "atari:GenericTrans" (layer "F.Cu")
@@ -4836,13 +4836,13 @@
     (attr through_hole)
     (fp_text reference "REF**" (at 0 -3.175 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp b612f325-cb3d-4123-9230-a2ba2ee1005f)
+      (tstamp 7af83bab-0ec1-4be8-b7d8-8c8f11ff8ae6)
     )
     (fp_text value "hole180" (at 0 3.175 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp c1e9f394-0452-493c-9ed5-b1410cb2be12)
+      (tstamp 6c139d98-8686-47e8-b833-365a228bf81e)
     )
-    (pad "" np_thru_hole circle (at 0 0) (size 4.572 4.572) (drill 4.572) (layers *.Mask) (tstamp f7dd8c1d-522b-4bf4-9270-52288a28cdd6))
+    (pad "" np_thru_hole circle (at 0 0) (size 4.572 4.572) (drill 4.572) (layers *.Mask) (tstamp 8ccaaa69-c9d6-47c9-bac3-faa9a2bb2c31))
   )
 
   (footprint "atari:GenericComp" (layer "F.Cu")
@@ -7945,8 +7945,8 @@
   (via (at 280.67 200.66) (size 1.524) (drill 1.016) (layers "F.Cu" "B.Cu") (net 159) (tstamp 30447917-0f01-4386-8197-fd5212b78263))
   (via (at 147.32 250.19) (size 1.524) (drill 1.016) (layers "F.Cu" "B.Cu") (free) (net 159) (tstamp 8b826ac2-fe55-4c3a-962b-d4aeb7b070d1))
   (via (at 147.32 241.3) (size 1.524) (drill 1.016) (layers "F.Cu" "B.Cu") (net 159) (tstamp cae64f3a-83fb-4d6e-8809-e398576d0ee5))
-  (segment (start 280.67 241.3) (end 147.32 241.3) (width 0.381) (layer "B.Cu") (net 159) (tstamp a7b30797-6452-4822-bc5f-d2d676895485))
-  (segment (start 280.67 200.66) (end 280.67 241.3) (width 0.381) (layer "B.Cu") (net 159) (tstamp e82e7092-b849-43c9-ab67-7ebbc60481e3))
+  (segment (start 280.67 200.66) (end 280.67 241.3) (width 0.381) (layer "B.Cu") (net 159) (tstamp 5e35f225-ec0c-4dab-adc8-ef9b227b2c9b))
+  (segment (start 280.67 241.3) (end 147.32 241.3) (width 0.381) (layer "B.Cu") (net 159) (tstamp 86774375-96f8-4e8a-ba96-d677c700adcb))
   (segment (start 147.32 250.19) (end 147.32 255.016) (width 1.27) (layer "B.Cu") (net 159) (tstamp f7dea894-e3ab-4d59-acca-b4556a5b5770))
   (segment (start 260.35 196.85) (end 265.43 196.85) (width 0.381) (layer "F.Cu") (net 160) (tstamp 09467fe4-c899-4243-b81b-ef02004ef82f))
   (segment (start 231.14 198.12) (end 232.41 199.39) (width 0.381) (layer "F.Cu") (net 160) (tstamp 11e022f9-7bfc-403a-83fa-a6c177c658bb))
